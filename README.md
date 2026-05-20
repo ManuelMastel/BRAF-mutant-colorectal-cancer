@@ -48,7 +48,7 @@ Each figure is organized in a separate folder. Every folder contains the corresp
 └── Figure_S5/
     ├── Figure_S5_analysis.R
     └── Figure_S5_analysis.html
-
+.
 
 The .R files contain the executable analysis and plotting code.
 The .html files are rendered reports that allow inspection of the analysis output without rerunning the code.
